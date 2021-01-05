@@ -1,0 +1,27 @@
+6s s s s f f f f
+6d d d d 6h h h h
+6ej j j j j j j j j j 6ej
+
+d s a o
+qp qp f qd qs wa wa a wd ws a
+ep ep l ek l ek l 6ep ep l ek l 6ek l
+
+qp qp f qd qs wa wa a wd ws a
+ep ep l 6ek l ek l 6ep ep l ek l ek l
+
+4qs s s s f f f f
+5wd d d d h h h h
+6ej j j j j j j j j j j j
+
+d s a o
+qp qp f qd qs wa wa a wd ws a
+ep ep l ek l ek l 6ep ep l ek l 6ek l
+
+qp qp f qd qs wa wa a wd ws a
+ep ep l 6ek l ek l 6ep ep l ek l ek l
+
+4qs s s s f f f f
+5wd d d d h h h h
+6ej j j j j j j j j j j j
+
+dsao

@@ -1,0 +1,65 @@
+1 1 1 1 t t 2y @Y Y Y
+5t t 4i o t E @E
+2i i o 2t @ E
+1 t t 2y @Y Y Y
+5t t 4i i o t E @E
+2i i o 2t @ E
+1s o 1 s 1o 2 @P @ @o Y
+5t t 4i o 4 t 4t @t 2i i o 2t @ E
+1s o 1 s 1o 2 @P @ @o Y
+5t t 4i i o 4 t 4t @t 2i i o 2t @ E
+
+1 t t 2y @Y Y
+5o Y 4i i i Y i i @o 2y t 2 @
+t E 1t t t E t t 2y @Y Y
+o 5o Y 4i i i o t i @o 2t t 2Y @y t E
+
+1 w t 1t t t 1t y t @E
+@w w w 4t t t 4t t t 4t y t @E
+w 2w w w 1t t t 1t t t 1t y t @E @ o 4o Y
+YZ ic ic ic ov yz tl @YD 2yd 1ts
+
+t 1 1t 2y @Y @Y @Y
+5t t 4i o 4 t 4E @E
+2i i o 2t @ E
+1 t 1 1t 2y @Y @Y @Y
+5t t 4i i 4o t 4E @E
+2i i o 2t @ E
+
+1s o 1 s 1o 2 @P @ @o Y
+5t t 4i o 4 t 4t @t 2i i o 2t @ E
+1s o 1 s 1o 2 @P @ @o Y
+5t t 4i i o 4 t 4t @t 2i i o 2t @
+-
+t E 1t t t E t t 2y @Y Y Y
+o 5o Y 4i i i o t t i @o 2t t t 2
+@t t E 1t t t E t t t 2y @Y Y Y
+o 5o Y 4i i i o t i @o 2t t t
+
+@YD 2yd 1ts
+s s D oh D 2 @ts
+s d sg 5d 4ts
+s sg d @d 2s s s 2dg @ d
+1 ts D oh D 2 @ts
+s s d sg 5d 4
+t t w w t t t t 2t @ w
+
+1 w t 1t t t 1t y t @E
+@w w w 4t t t 4t t t 4t y t @E
+w 2w w w 1t t t 1t t t 1t y t @E @ o 4o Y
+YZ ic ic ic ov yz tl @YD 2yd 1ts
+
+t 1 1t 2y @Y @Y @Y
+5t t 4i o 4 t 4E @E
+2i i o 2t @ E
+1 t 1 1t 2y @Y @Y @Y
+5t t 4i i 4o t 4E @E
+2i i o 2t @ E
+
+1s o 1 s 1o 2 @P @ @o Y
+5t t 4i o 4 t 4t @t 2i i o 2t @ E
+1s o 1 s 1o 2 @P @ @o Y
+5t t 4i i o 4 t 4t @t 2i i o 2t @ E
+
+1l h l h 2 @J h D
+5h 4g h s P @ 2g g h 2s @ P 18

@@ -1,0 +1,8 @@
+6 0 t 0 6 q t q 8 w t w 9 w r w
+6 0 t 0 6 q t q 8 w t w 9 w r o
+f6 0 t 0 6 q t qh s8 w t w 9 w r o f6 0 t 0 6 q t s o8 w t w 9 w r w
+6 0 th 0h 6h qg tfq 8 w t wd 9d wf d s
+6 0 th 0h 6h qj thq 8 w t wl 9l w rk w
+6 0 th 0h 6h qg tfq 8 w t wd 9d wf d s
+6 0 th 0h 6h qj thq 8 w t wl 9l w rk w
+6l 0 t k 6j q tk ql 8z w tl w k w r
