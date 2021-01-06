@@ -9,6 +9,7 @@ How to use:
      If you don't have python, get it at https://www.python.org/downloads/release/python-385/
      
   2. Go into your terminal and execute these following commands
+  
      `cd downloads` OR `cd Downloads`
      
      `git clone https://github.com/azh412/VirtualPianoBot.git`
