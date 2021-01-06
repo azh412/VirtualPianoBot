@@ -16,10 +16,10 @@ A virtual piano player, that you can train to play different songs, as well as t
      
      `pip3 install pyautogui`
          
-# Usage
+# Usage:
 
-     To run the bot, execute `python3 VirtualPianoBot` 
+   To run the bot, execute `python3 VirtualPianoBot` into the terminal
   
-     Then, choose a song name based on the txt files in the new folder in Downloads
+   Then, choose a song name based on the txt files in the new folder in Downloads
      
-     Lastly, very quickly switch to the window you want to play the piano on, and wait until the song is finished!
+   Lastly, very quickly switch to the window you want to play the piano on, and wait until the song is finished!
