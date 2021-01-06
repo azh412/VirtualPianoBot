@@ -2,7 +2,7 @@
 A virtual piano player, that you can train to play different songs, as well as the built-in songs.
 
 
-# How to use:
+# Setup:
 
   1. Ensure you have python installed (Python 3.8 recommended)
      
@@ -15,8 +15,10 @@ A virtual piano player, that you can train to play different songs, as well as t
      `git clone https://github.com/azh412/VirtualPianoBot.git`
      
      `pip3 install pyautogui`
-     
-  3. To run the bot, execute `python3 VirtualPianoBot` 
+         
+# Usage
+
+     To run the bot, execute `python3 VirtualPianoBot` 
   
      Then, choose a song name based on the txt files in the new folder in Downloads
      
