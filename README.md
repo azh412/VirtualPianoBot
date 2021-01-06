@@ -2,7 +2,7 @@
 A virtual piano player, that you can train to play different songs, as well as the built-in songs.
 
 
-How to use:
+# How to use:
 
   1. Ensure you have python installed (Python 3.8 recommended)
      
