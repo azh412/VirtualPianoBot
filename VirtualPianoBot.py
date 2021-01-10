@@ -28,7 +28,7 @@ w = [
 
 for o in w:
     if o.name == choice:
-        with open(f"{o.name}.txt", "r") as text:
+        with open(f"sheets/{o.name}.txt", "r") as text:
             f = text.readlines()
             for a in f:
                 if o.new != None:
