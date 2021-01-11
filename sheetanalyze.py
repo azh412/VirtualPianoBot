@@ -1,6 +1,6 @@
 inp = input("sheet name: ")
 file = []
-has = 0
+has = 2
 with open(f"sheets/{inp}.txt", "r") as f:
     j = f.readlines()
     for i in j:
@@ -10,13 +10,13 @@ with open(f"sheets/{inp}.txt", "r") as f:
                     has = 1
                     break
             x.strip("-")        
-            if has == 0 and len(x) > 1:
+            if has == 2 and len(x) > 1:
                 x = ' - '.join(x[i:i + 1] for i in range(0, len(x), 1))
             x = x.strip("[")
             x = x.strip(']')
             x = x.replace("|", "\n\n")
             file.append(x)
-            has = 0
+            has = 2
 
 with open(f"sheets/{inp}.txt", "a") as f:
     f.truncate(0)
