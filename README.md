@@ -21,7 +21,9 @@ A virtual piano player, that you can train to play different songs, as well as t
    To run the bot, execute `python3 VirtualPianoBot` to play one song, into the terminal.
    
    If you want a mashup, run `python3 mashup.py`
-  
+   
+   (Note: With Mac, you need to add `sudo` to the beginning of the `python3` commands, and enter your sudo password, usually your computer password.)
+   
    Then, choose a song name based on the txt files in the new folder in Downloads.
      
    Lastly, very quickly switch to the window you want to play the piano on, and wait until the song is finished!
