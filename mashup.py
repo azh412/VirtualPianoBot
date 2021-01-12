@@ -26,7 +26,7 @@ w = [
 for i in range(3):
     random.shuffle(w)
 for o in w:
-    with open(f"{o.name}.txt", "r") as text:
+    with open(f"sheets/{o.name}.txt", "r") as text:
         f = text.readlines()
         for a in f:
             if o.new:
