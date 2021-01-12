@@ -26,7 +26,7 @@ A virtual piano player, that you can train to play different songs, as well as t
    
    Then, choose a song name based on the txt files in the new folder in Downloads.
      
-   Lastly, very quickly switch to the window you want to play the piano on, and wait until the song is finished!
+   Lastly, switch to the window you want to play the piano on, and press the `esc` key to start / stop the bot!
    
 # Add new songs
 
