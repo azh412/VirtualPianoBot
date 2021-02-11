@@ -24,7 +24,9 @@ A virtual piano player, that you can train to play different songs, as well as t
    
    (Note: With Mac, you need to add `sudo` to the beginning of the `python3` commands, and enter your sudo password, usually your computer password.)
    
-   Then, choose a song name based on the txt files in the new folder in Downloads.
+   Then, choose a song name based on the txt files in the new folder in Downloads. 
+   (Note: You have to `cd` into the folder this repository is in.)
+   (WARNING: May be buggy at the moment, will work with 95% of sheets.)
      
    Lastly, switch to the window you want to play the piano on, and press the `esc` key to start and hold the `esc` key to stop the bot!
    
