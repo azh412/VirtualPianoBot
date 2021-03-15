@@ -18,7 +18,7 @@ A virtual piano player, that you can train to play different songs, as well as t
          
 # Usage:
 
-   To run the bot, execute `python3 VirtualPianoBot` to play one song, into the terminal.
+   To run the bot, execute `python3 VirtualPianoBot.py` to play one song, into the terminal that is run as administrator.
    
    If you want a mashup, run `python3 mashup.py`
    
@@ -26,7 +26,7 @@ A virtual piano player, that you can train to play different songs, as well as t
    
    Then, choose a song name based on the txt files in the new folder in Downloads. 
    (Note: You have to `cd` into the folder this repository is in.)
-   (WARNING: May be buggy at the moment, will work with 95% of sheets.)
+   (WARNING: May be buggy at the moment, will work with about 93.5% of sheets.)
      
    Lastly, switch to the window you want to play the piano on, and press the `esc` key to start and hold the `esc` key to stop the bot!
    
