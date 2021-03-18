@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Azhaan Salam
+# Licensed under the MIT License
+
 import pyautogui, time, random, keyboard
 choice = input("Song name: ")
 
