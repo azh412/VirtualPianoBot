@@ -15,6 +15,8 @@ A virtual piano player, that you can train to play different songs, as well as t
      `git clone https://github.com/azh412/VirtualPianoBot.git`
      
      `pip3 install pyautogui`
+
+     `pip3 install termcolor`
          
 # Usage:
 

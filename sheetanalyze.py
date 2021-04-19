@@ -1,4 +1,6 @@
-inp = input("sheet name: ")
+from termcolor import colored
+print(colored("sheet name: ", green), end="")
+inp = input()
 file = []
 has = 2
 with open(f"sheets/{inp}.txt", "r") as f:
@@ -9,7 +11,7 @@ with open(f"sheets/{inp}.txt", "r") as f:
                 if l == '[':
                     has = 1
                     break
-            x.strip("-")        
+            x = x.strip("-")        
             if has == 2 and len(x) > 1:
                 x = ' - '.join(x[i:i + 1] for i in range(0, len(x), 1))
             x = x.strip("[")
@@ -18,7 +20,7 @@ with open(f"sheets/{inp}.txt", "r") as f:
             file.append(x)
             has = 2
 
-with open(f"sheets/{inp}.txt", "a") as f:
+with open(f"sheets/{inp}.txt", "w") as f:
     f.truncate(0)
 
 with open(f"{inp}.txt", "a") as f:

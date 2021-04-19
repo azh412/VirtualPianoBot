@@ -1,5 +1,7 @@
 import pyautogui, time, random, keyboard
-choice = input("Song name: ")
+from termcolor import colored
+print(colored("sheet name: ", "green"), end="")
+choice = input()
 
 class Song:
     def __init__(self, reg, new, dash, name, desc):
@@ -30,7 +32,7 @@ w = [
 
 for o in w:
     if o.name == choice:
-        print(f"Press the Esc key to start playing {o.desc}!")
+        print(colored(f"Press the Esc key to start playing {o.desc}!", "yellow"))
         while True:
             if keyboard.is_pressed("esc"):
                 with open(f"sheets/{o.name}.txt", "r") as text:

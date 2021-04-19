@@ -1,4 +1,5 @@
 import pyautogui, time, random, keyboard
+from termcolor import colored
 class Song:
     def __init__(self, reg, new, dash, name, desc):
         self.reg = reg
@@ -25,7 +26,7 @@ w = [
 ]
 for i in range(3):
     random.shuffle(w)
-print("Start the mashup by clicking the Esc key!")
+print(colored("Start the mashup by clicking the Esc key!", "yellow"))
 while True:
     if keyboard.is_pressed("esc"):
         for o in w:   
