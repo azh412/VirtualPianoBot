@@ -15,6 +15,8 @@ A virtual piano player, that you can train to play different songs, as well as t
      `git clone https://github.com/azh412/VirtualPianoBot.git`
      
      `pip3 install pyautogui`
+
+     `pip3 install termcolor`
          
 # Usage:
 
@@ -55,4 +57,3 @@ A virtual piano player, that you can train to play different songs, as well as t
    5. In `virtualpianobot.py` or `mashup.py`, add the song to the list `w` and insert a `Song()` given the examples shown.
    
    That's it! Consider making a `pull request` to contribute and add the song to the default bot!
-
