@@ -20,13 +20,15 @@ A virtual piano player, that you can train to play different songs, as well as t
          
 # Usage:
 
-   To run the bot, execute `python3 VirtualPianoBot` to play one song, into the terminal.
+   To run the bot, execute `python3 VirtualPianoBot.py` to play one song, into the terminal that is run as administrator.
    
    If you want a mashup, run `python3 mashup.py`
    
    (Note: With Mac, you need to add `sudo` to the beginning of the `python3` commands, and enter your sudo password, usually your computer password.)
    
-   Then, choose a song name based on the txt files in the new folder in Downloads.
+   Then, choose a song name based on the txt files in the new folder in Downloads. 
+   (Note: You have to `cd` into the folder this repository is in.)
+   (WARNING: May be buggy at the moment, will work with about 93.5% of sheets.)
      
    Lastly, switch to the window you want to play the piano on, and press the `esc` key to start and hold the `esc` key to stop the bot!
    
@@ -41,11 +43,9 @@ A virtual piano player, that you can train to play different songs, as well as t
    3. Run `python3 sheetanalyze.py` and enter the sheet name. (Based on the name you gave the file when you made it)
    
       You can also manually change the sheet by following these criteria:
-      
+   
       The character `|` should be replaced with a new line,
-      
       The character `-` should have a space before and after it, to become ` - `,
-      
       Characters that should be played rapidly should have a ` - ` in between characters,
       
       And finally, characters grouped together with brackets, (i.e `[abcd]`) should not have any braces.

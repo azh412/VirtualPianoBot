@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Azhaan Salam
+# Licensed under the MIT License
+
 import pyautogui, time, random, keyboard
 from termcolor import colored
 class Song:
@@ -8,6 +11,7 @@ class Song:
         self.name = name
         self.desc = desc
 w = [
+    # All credits to these songs:
     Song(0.12, 0.5, None, "holiday", "Holiday by Lil Nas X"),
     Song(0.08, None, None, "pirate", "He's A Pirate by Klaus Badelt"),
     Song(0.21, None, None, "terimeri", "Teri Meri by Shreya Ghosal and Rafat Fateh Ali Khan"),

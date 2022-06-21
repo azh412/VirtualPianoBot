@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Azhaan Salam
+# Licensed under the MIT License
+
 import pyautogui, time, random, keyboard
 from termcolor import colored
 print(colored("sheet name: ", "green"), end="")
@@ -12,6 +15,7 @@ class Song:
         self.desc = desc # Real name and artist(s)
 
 w = [
+    # All credits to these songs:
     Song(0.12, 0.5, None, "holiday", "Holiday by Lil Nas X"),
     Song(0.08, None, None, "pirate", "He's A Pirate by Klaus Badelt"),
     Song(0.21, None, None, "terimeri", "Teri Meri by Shreya Ghosal and Rafat Fateh Ali Khan"),
@@ -32,9 +36,9 @@ w = [
 
 for o in w:
     if o.name == choice:
-        print(colored(f"Press the Esc key to start playing {o.desc}!", "yellow"))
+        print(colored(f"Press the ] key to start playing {o.desc}!", "yellow"))
         while True:
-            if keyboard.is_pressed("esc"):
+            if keyboard.is_pressed("]"):
                 with open(f"sheets/{o.name}.txt", "r") as text:
                     f = text.readlines()
                     for a in f:
