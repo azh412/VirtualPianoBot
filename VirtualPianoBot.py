@@ -1,7 +1,7 @@
 # Copyright (c) 2021 Azhaan Salam
 # Licensed under the MIT License
 
-import pyautogui, time, random, keyboard
+import pyautogui, time, keyboard
 from termcolor import colored
 print(colored("sheet name: ", "green"), end="")
 choice = input()
