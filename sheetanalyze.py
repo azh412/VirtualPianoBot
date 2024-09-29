@@ -2,10 +2,10 @@
 # Licensed under the MIT License
 
 from termcolor import colored
-print(colored("sheet name: ", green), end="")
+
+print(colored("sheet name: ", "green"), end="")
 inp = input()
 
-inp = input("sheet name: ")
 file = []
 has = 2
 with open(f"sheets/{inp}.txt", "r") as f:
