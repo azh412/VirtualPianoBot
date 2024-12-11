@@ -17,7 +17,9 @@ A virtual piano player, that you can train to play different songs, as well as t
      `pip3 install pyautogui`
 
      `pip3 install termcolor`
-         
+
+     `pip3 install keyboard`
+
 # Usage:
 
    To run the bot, execute `python3 VirtualPianoBot.py` to play one song, into the terminal that is run as administrator.
